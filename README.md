@@ -43,6 +43,9 @@ Once the backend and frontend are running:
 - Visit the **admin panel** to manage users and upload content.
 - Use the **user app** to browse and stream audio files.
 
+## Links
+- **User App**: [Click Here](https://listen-up-fullstack-frontend.onrender.com) 
+- **Admin**: [Click Here](https://listen-up-fullstack-admin.onrender.com)
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
 Please follow the standard GitHub fork/clone workflow for contributing:
